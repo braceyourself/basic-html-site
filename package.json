@@ -1,0 +1,12 @@
+{
+  "name": "basic-html-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/braceyourself/basic-html-site.git",
+  "author": "Ethan Brace <ethanabrace@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
